@@ -2,11 +2,11 @@
 
 ## Что было запланировано и что было сделано:
 1) Был проведен исследовательский тур с целью установить работоспособность сервиса и выявить слабые места. 
-2) По итогам ислледовательского тура был составлен [план автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Plan.md) веб сервиса.
-3) Согласно [заданию](https://github.com/netology-code/qa-diploma/blob/master/README.md) и [плану автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Plan.md), была разработана тестовая среда с возможностью запуска и тестирования SUT под двумя разными СУБД (MySQL и Postgers).
-4) Согласно [плану автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Plan.md) было реализованно 100 тестовых сценариев, из которых: 88 UI и 12 API. 
+2) По итогам ислледовательского тура был составлен [план автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Plan.md) веб сервиса.
+3) Согласно [заданию](https://github.com/netology-code/qa-diploma/blob/master/README.md) и [плану автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Plan.md), была разработана тестовая среда с возможностью запуска и тестирования SUT под двумя разными СУБД (MySQL и Postgers).
+4) Согласно [плану автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Plan.md) было реализованно 100 тестовых сценариев, из которых: 88 UI и 12 API. 
 5) По итогам анализа Allure отчетов тестирования, было составленно 22 баг-репорта, из которых: 16 на UI и 8 на API.
-6) Составлен [отчет по итогам тестрования](https://github.com/Dmitriy7438/Diplom/blob/master/TestReport.md).
+6) Составлен [отчет по итогам тестрования](https://github.com/Dmitriy7438/DiplomQA/blob/master/TestReport.md).
 
 ## Сработавшие риски
 
@@ -22,6 +22,6 @@
 
 ## Ссылки на документацию:
 - [1) Дипломное задание](https://github.com/netology-code/qa-diploma/blob/master/README.md)
-- [2) План автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Plan.md)
-- [3) Отчет по итогам тестрования](https://github.com/Dmitriy7438/Diplom/blob/master/TestReport.md)
-- [4) Отчет о проведенной автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Summary.md)
+- [2) План автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Plan.md)
+- [3) Отчет по итогам тестрования](https://github.com/Dmitriy7438/DiplomQA/blob/master/TestReport.md)
+- [4) Отчет о проведенной автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Summary.md)

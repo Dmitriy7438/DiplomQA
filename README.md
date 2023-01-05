@@ -30,7 +30,7 @@
 
 ## Ссылки на документацию:
 - [1) Дипломное задание](https://github.com/netology-code/qa-diploma/blob/master/README.md)
-- [2) План автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Plan.md)
-- [3) Отчет по итогам тестрования](https://github.com/Dmitriy7438/Diplom/blob/master/TestReport.md)
-- [4) Отчет о проведенной автоматизации](https://github.com/Dmitriy7438/Diplom/blob/master/Summary.md)
+- [2) План автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Plan.md)
+- [3) Отчет по итогам тестрования](https://github.com/Dmitriy7438/DiplomQA/blob/master/TestReport.md)
+- [4) Отчет о проведенной автоматизации](https://github.com/Dmitriy7438/DiplomQA/blob/master/Summary.md)
 
